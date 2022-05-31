@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saadman-rabbi
+- 👋 Hi, I’m @saadman-galib
 - 👀 I’m interested in **learning new things**
 <!-- - 🌱 I’m currently learning  -->
 <!-- - 💞️ I’m looking to collaborate  -->
